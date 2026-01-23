@@ -1,4 +1,4 @@
-### Hi there, I'm Elena! 👋
+### Hello, I'm Elena! 👋
 **MSc Artificial Intelligence & Data Science Graduate** | **Computer Vision Specialist**
 
 I am a Data Scientist with a background in **Technical Project Management**, now focused on solving complex healthcare challenges using **Deep Learning**.
