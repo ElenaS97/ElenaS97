@@ -9,3 +9,4 @@ I am a Graduate Data Scientist with a background in Project Management, now focu
 - **Currently:** Seeking **Remote/Hybrid Data Science/Analytics** roles.
 
 [LinkedIn](https://www.linkedin.com/in/elena-sofina-914a61358/)
+[Medium](https://medium.com/@sofina.elena2014/audio-classification-from-pre-trained-embeddings-to-custom-cnn-cbam-attention-models-eddcd29616c4)
